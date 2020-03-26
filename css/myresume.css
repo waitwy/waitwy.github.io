@@ -1,11 +1,5 @@
-/*!
- * Start Bootstrap - Resume v5.0.8 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */
-
 body {
-  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Noto Sans SC',sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -17,13 +11,8 @@ body {
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Noto Sans SC',sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -50,7 +39,7 @@ p.lead {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Noto Sans SC',sans-serif;
   font-size: 1.5rem;
 }
 
@@ -161,7 +150,7 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
   background-color: #dba0cd !important;
-  background-color:url("img/batthern.png")
+  background-image:url("img/batthern.png")
 }
 
 .text-primary {
