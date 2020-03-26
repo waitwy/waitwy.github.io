@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #C27CB8;
+  background-color: #dba0cd;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #C27CB8;
+  color: #dba0cd;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -160,18 +160,18 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #C27CB8 !important;
+  background-color: #dba0cd !important;
   background-color:url("img/batthern.png")
 }
 
 .text-primary {
-  color: #C27CB8 !important;
+  color: #dba0cd !important;
 }
 
 a {
-  color: #C27CB8;
+  color: #dba0cd;
 }
 
 a:hover, a:focus, a:active {
-  color: #C27CB8;
+  color: #dba0cd;
 }
