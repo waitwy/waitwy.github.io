@@ -58,7 +58,7 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #633d57;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #C27CB8;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #C27CB8;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -160,18 +160,18 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #B0BDFC !important;
+  background-color: #C27CB8 !important;
   background-color:url("img/batthern.png")
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #C27CB8 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #C27CB8;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #C27CB8;
 }
