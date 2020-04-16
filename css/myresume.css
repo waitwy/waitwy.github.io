@@ -149,8 +149,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #dba0cd !important;
-  background-image:url('img/batthern.png');
+   background-color: #dba0cd !important;
+   background-image:url("img/inspiration-geometry.png");
 }
 
 .text-primary {
