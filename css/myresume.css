@@ -48,7 +48,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #633d57;
-  color: #fff !important;
+  color: #fff!important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -123,8 +123,8 @@ p.lead {
 }
 
 section.resume-section {
-  padding-top: 5rem !important;
-  padding-bottom: 5rem !important;
+  padding-top: 5rem!important;
+  padding-bottom: 5rem!important;
   max-width: 75rem;
 }
 
@@ -143,8 +143,8 @@ section.resume-section .resume-item .resume-date {
 
 @media (min-width: 992px) {
   section.resume-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
   }
 }
 
@@ -154,7 +154,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #dba0cd !important;
+  color: #dba0cd!important;
 }
 
 a {
