@@ -61,7 +61,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #dba0cd;
+  background-color: #bd7db0;
 }
 
 .dev-icons {
@@ -69,7 +69,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #dba0cd;
+  color: #bd7db0;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -79,7 +79,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #dba0cd;
+  outline-color: #bd7db0;
 }
 
 @media (min-width: 992px) {
@@ -149,18 +149,18 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-   background-color: #dba0cd!important;
+   background-color: #bd7db0!important;
    background-image: url("../img/gray-floral.png");
 }
 
 .text-primary {
-  color: #dba0cd!important;
+  color: #bd7db0!important;
 }
 
 a {
-  color: #dba0cd;
+  color: #bd7db0;
 }
 
 a:hover, a:focus, a:active {
-  color: #dba0cd;
+  color: #bd7db0;
 }
