@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
 
 div#flex_container{
 	display:flex;
-	justify-content:center
+	justify-content:space-around;
 }
 
 h1 {
