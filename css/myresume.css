@@ -18,6 +18,10 @@ h1,h2,h3,h4,h5,h6 {
   color: #343a40;
 }
 
+.fa,.fab,.fad,.fal,.far,.fas{
+	line-height:3.5rem;
+}
+
 div#flex_container{
 	display:flex;
 	justify-content:space-around;
