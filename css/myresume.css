@@ -76,6 +76,12 @@ p.lead {
   color: #bd7db0;
 }
 
+li {
+    list-style: none;
+    float: left;
+    width: 33.3%;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
