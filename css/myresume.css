@@ -80,12 +80,7 @@ p.lead {
   width: 900px;
   margin: 0 auto;
 }
-.card{
-  position: relative;
-  width: 270px;
-  float:left;
-  margin: 10px;
-}
+
 img{
   display: block;
   width: 100%;
