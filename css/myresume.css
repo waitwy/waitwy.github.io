@@ -76,17 +76,6 @@ p.lead {
   color: #bd7db0;
 }
 
-.container{
-  width: 900px;
-  margin: 0 auto;
-}
-
-img{
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
