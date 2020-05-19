@@ -86,24 +86,6 @@ img{
   width: 100%;
   height: auto;
 }
-.info{
-  opacity: 0;
-  position: absolute;
-  box-sizing: border-box;
-  background-color: rgba(0,0,0,.3);
-  top: 0;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  padding-top: 40px;
-}
-.info p{
-  color: #fff;
-}
-.info:hover{
-  -webkit-transition: 500ms;
-  opacity: 1;
-}
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
